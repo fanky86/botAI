@@ -1,8 +1,8 @@
 from twilio.rest import Client
 
 # Masukkan SID dan Auth Token yang didapat
-account_sid = 'AC32ada6b57607523b956b175776dffa48'  # Gantilah dengan Account SID Anda
-auth_token = 'b4cd6163c1ecc62bd5fc860ca3204017'  # Gantilah dengan Auth Token Anda
+account_sid = 'SKf6205c9f405b21043b77509564a25696'  # Gantilah dengan Account SID Anda
+auth_token = 't3JBo1VLsNIVhQ7alfa0t9RSI2Hy6eLA'  # Gantilah dengan Auth Token Anda
 
 client = Client(account_sid, auth_token)
 
