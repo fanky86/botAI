@@ -7,7 +7,7 @@ auth_token = 'a8a968dba53f504a89d1c6ed4914e22a'  # Gantilah dengan Auth Token An
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
-    body='Hello, this is a test message from Twilio WhatsApp bot!',
+    body='sok asik lo bangsat!',
     from_='whatsapp:+14155238886',  # Nomor WhatsApp Sandbox Anda
     to='whatsapp:+62895359611122'  # Nomor WhatsApp tujuan
 )
